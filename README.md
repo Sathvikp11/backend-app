@@ -1,1 +1,1 @@
-# backend-app
+# backend-app Developed a secure Aadhaar Card Management Backend using Spring Boot, encompassing login, sign-up, and data maintenance functionalities, facilitating smooth integration with various front-end applications. credit to amigos code for tutorial
